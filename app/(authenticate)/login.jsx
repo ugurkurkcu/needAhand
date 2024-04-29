@@ -32,7 +32,7 @@ const login = () => {
       }
     };
 
-    // checkLoginStatus();
+    checkLoginStatus();
   }, []);
 
   const handleLogin = () => {

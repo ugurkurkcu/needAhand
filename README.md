@@ -24,8 +24,8 @@
 
 <p>Express.js</p>
 
-<ul>JSX</ul>
+<p>JSX</p>
 
 ![](assets/gif/screen-1.gif)
 
-![](assets/gif/screen-2.gif)
+
